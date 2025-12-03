@@ -1,4 +1,5 @@
-# swd7-12-2025
+# Introduction to Data Visualisation with Python
+
 Files/notebooks for the December 2025 iteration of SWD7
 
 # Presentation slides
